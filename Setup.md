@@ -1,2 +1,2 @@
 Download the following libraries:
-1. numoy
+1. numpy
